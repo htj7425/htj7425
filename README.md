@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=&fontAlign=70)
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htj7425&exclude_repo=htj7425.github.io&layout=compact&theme=tokyonight" width="45%/ >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htj7425&exclude_repo=htj7425.github.io&layout=compact&theme=tokyonight" width="46%/ >
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=htj7425&theme=tokyonight&show_icons=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=htj7425&theme=tokyonight&show_icons=true" width="52%" />
 </a>
                          
                                                                                                                      
