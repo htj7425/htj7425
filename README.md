@@ -9,12 +9,12 @@
                          
 |Repository|내용||
 |------|---|---|
-|Nine-2023CapstoneDesign|Open AI기반 영어 오답노트|ReactNative - JavaScript|
-|opensource_project|보다 나은 기상을 위한 미션알람 어플|AndroidStudio - Java|
-|CodingTest|알고리즘 공부|Python||Nine-2023CapstoneDesign|Open AI기반 영어 오답노트|React Native : JavaScript|
-|Kokoa-clone-2022|카카오톡 클론 코딩|HTML|
-|NomadWeather|날씨 알림 어플 클론코딩|ReactNative - JavaScript|
-|WordHardTravelHardApp|투두리스트 어플 클론코딩|ReactNative - JavaScript|
+|[Nine-2023CapstoneDesign](https://github.com/htj7425/Nine-2023CapstoneDesign)|Open AI기반 영어 오답노트|ReactNative - JavaScript|
+|[opensource_project](https://github.com/htj7425/opensource_project)|보다 나은 기상을 위한 미션알람 어플|AndroidStudio - Java|
+|[CodingTest](https://github.com/htj7425/CodingTest)|알고리즘 공부|Python||Nine-2023CapstoneDesign|Open AI기반 영어 오답노트|React Native : JavaScript|
+|[Kokoa-clone-2022](https://github.com/htj7425/kokoa-clone-2022)|카카오톡 클론 코딩|HTML|
+|[NomadWeather](https://github.com/htj7425/NomadWeather)|날씨 알림 어플 클론코딩|ReactNative - JavaScript|
+|[WordHardTravelHardApp](https://github.com/htj7425/WordHardTravelHardApp)|투두리스트 어플 클론코딩|ReactNative - JavaScript|
                                                                                                                      
 <!--
 **htj7425/htj7425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
