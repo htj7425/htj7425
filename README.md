@@ -8,7 +8,7 @@
 </a>
                          
 |Repository|내용||
-|------|---|---|
+|:------:|:---:|:---:|
 |[Nine-2023CapstoneDesign](https://github.com/htj7425/Nine-2023CapstoneDesign)|Open AI기반 영어 오답노트|ReactNative - JavaScript|
 |[opensource_project](https://github.com/htj7425/opensource_project)|보다 나은 기상을 위한 미션알람 어플|AndroidStudio - Java|
 |[CodingTest](https://github.com/htj7425/CodingTest)|알고리즘 공부|Python||Nine-2023CapstoneDesign|Open AI기반 영어 오답노트|React Native : JavaScript|
