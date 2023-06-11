@@ -16,7 +16,9 @@
 |[Kokoa-clone-2022](https://github.com/htj7425/kokoa-clone-2022)|카카오톡 클론 코딩|HTML|
 |[NomadWeather](https://github.com/htj7425/NomadWeather)|날씨 알림 어플 클론코딩|ReactNative - JavaScript|
 |[WordHardTravelHardApp](https://github.com/htj7425/WordHardTravelHardApp)|투두리스트 어플 클론코딩|ReactNative - JavaScript|
-                                                                                                                     </div>                                                                                                            
+</div>       
+                                                                                                                     
+                                                                                                                     
 <!--
 **htj7425/htj7425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
