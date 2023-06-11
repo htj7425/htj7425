@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=&fontAlign=70)
+<div align=center>
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htj7425&exclude_repo=htj7425.github.io&layout=compact&theme=tokyonight" width="46.5%/ >
@@ -15,7 +16,7 @@
 |[Kokoa-clone-2022](https://github.com/htj7425/kokoa-clone-2022)|카카오톡 클론 코딩|HTML|
 |[NomadWeather](https://github.com/htj7425/NomadWeather)|날씨 알림 어플 클론코딩|ReactNative - JavaScript|
 |[WordHardTravelHardApp](https://github.com/htj7425/WordHardTravelHardApp)|투두리스트 어플 클론코딩|ReactNative - JavaScript|
-                                                                                                                     
+                                                                                                                     </div>                                                                                                            
 <!--
 **htj7425/htj7425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
