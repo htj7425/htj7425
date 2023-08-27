@@ -2,7 +2,7 @@
 <div align=center>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htj7425&exclude_repo=htj7425.github.io&layout=compact&theme=tokyonight" width="50% height="10%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htj7425&exclude_repo=htj7425.github.io&layout=compact&theme=tokyonight" width="400" height="400" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=htj7425&theme=tokyonight&show_icons=true" width="50%" height="10%" />
