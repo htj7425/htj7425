@@ -15,7 +15,7 @@
 |:------:|:---:|:---:|
 |[Nine-2023CapstoneDesign](https://github.com/htj7425/Nine-2023CapstoneDesign)|Open AI기반 영어 오답노트|ReactNative|
 |[opensource_project](https://github.com/htj7425/opensource_project)|상쾌한 아침을 위한 미션알람 어플|AndroidStudio - Java|
-|[iOS_Study](https://github.com/htj7425/iOS_Study)|iOS 공부|XCode - Swift|
+|[iOS_Study](https://github.com/htj7425/iOS_Study)|iOS 공부|XCode - UIKit|
 |[Kokoa-clone-2022](https://github.com/htj7425/kokoa-clone-2022)|카카오톡 클론 코딩|HTML|
 |[NomadWeather](https://github.com/htj7425/NomadWeather)|날씨 알림 어플 클론코딩|ReactNative|
 |[WordHardTravelHardApp](https://github.com/htj7425/WordHardTravelHardApp)|투두리스트 어플 클론코딩|ReactNative|
