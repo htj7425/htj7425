@@ -8,7 +8,7 @@
 
 </br></br></br>
                                                                                                                      
-📝 [Resume](https://rhetorical-aster-242.notion.site/_Resume-ab3dfbf36a9e46a291944d19d86b201e?pvs=4)                                                                                                         
+<!-- 📝 [Resume](https://rhetorical-aster-242.notion.site/_Resume-ab3dfbf36a9e46a291944d19d86b201e?pvs=4) -->           
 
 </div>       
                                                                                                                  
